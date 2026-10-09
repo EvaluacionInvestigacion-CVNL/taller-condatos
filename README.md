@@ -17,6 +17,8 @@ Identificar zonas urbanizadas con diferentes niveles de temperatura superficial 
 | [GHSL — Global Human Settlement Layer](https://developers.google.com/earth-engine/datasets/catalog/JRC_GHSL_P2023A_GHS_BUILT_S) | Identificación de píxeles con superficie construida.      |
 | [FAO GAUL 2025, nivel 2](https://developers.google.com/earth-engine/datasets/catalog/FAO_GAUL_2025_level2?hl=es-419)                      | Delimitación administrativa del área de estudio.          |
 
+https://data.fao.org/catalog/dataset/b261410b-5e03-40e8-834f-1dab67aa2f8a/resource/f5f96368-5695-4c14-9eb8-e6271832a8c9
+
 ## Metodología
 
 1. **Delimitación del área de estudio.** Se selecciona la unidad administrativa correspondiente mediante los atributos de país y municipio de FAO GAUL 2025, nivel 2.
