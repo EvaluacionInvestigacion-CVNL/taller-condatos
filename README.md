@@ -1,4 +1,4 @@
-# Arborización estratégica e islas de calor urbanas
+# Arborización estratégica para reducir islas de calor con datos satelitales - Abrelatam ConDatos 2026
 
 Script de Google Earth Engine para analizar la distribución espacial de la temperatura superficial en zonas urbanizadas, identificar áreas potencialmente más expuestas al calor y generar mapas de clasificación térmica a partir de datos satelitales.
 
