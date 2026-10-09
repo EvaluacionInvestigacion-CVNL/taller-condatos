@@ -19,7 +19,7 @@ Identificar zonas urbanizadas con diferentes niveles de temperatura superficial 
 
 ## Metodología
 
-1. **Delimitación del área de estudio.** Se selecciona la unidad administrativa correspondiente mediante los atributos de país y municipio de FAO GAUL 2015, nivel 2.
+1. **Delimitación del área de estudio.** Se selecciona la unidad administrativa correspondiente mediante los atributos de país y municipio de FAO GAUL 2025, nivel 2.
 
 2. **Identificación del territorio urbanizado.** Se utiliza la capa GHSL de superficie construida de 2025 para delimitar los píxeles que forman parte del análisis.
 
