@@ -15,7 +15,7 @@ Identificar zonas urbanizadas con diferentes niveles de temperatura superficial 
 | [Landsat 8 Collection 2, Level 2](https://developers.google.com/earth-engine/datasets/catalog/LANDSAT_LC08_C02_T1_L2)           | Datos de temperatura superficial terrestre (LST).         |
 | [Landsat 9 Collection 2, Level 2](https://developers.google.com/earth-engine/datasets/catalog/LANDSAT_LC09_C02_T1_L2)           | Observaciones complementarias de temperatura superficial. |
 | [GHSL — Global Human Settlement Layer](https://developers.google.com/earth-engine/datasets/catalog/JRC_GHSL_P2023A_GHS_BUILT_S) | Identificación de píxeles con superficie construida.      |
-| [FAO GAUL 2015, nivel 2](https://developers.google.com/earth-engine/datasets/catalog/FAO_GAUL_2015_level2)                      | Delimitación administrativa del área de estudio.          |
+| [FAO GAUL 2025, nivel 2](https://developers.google.com/earth-engine/datasets/catalog/FAO_GAUL_2025_level2?hl=es-419)                      | Delimitación administrativa del área de estudio.          |
 
 ## Metodología
 
